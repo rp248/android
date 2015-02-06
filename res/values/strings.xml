@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="description">Description text for testing</string>
     <string name="app_name">AndroidAPI</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
@@ -10,5 +11,6 @@
     <string name="title_activity_v4_support_activity_1">V4SupportActivity_1</string>
     <string name="title_activity_v4_support_activity_2">V4SupportActivity_2</string>
     <string name="title_activity_v4_support_activity_3">V4SupportActivity_3</string>
+    <string name="title_activity_task_and_back_stack">TaskAndBackStackActivity</string>
 
 </resources>
